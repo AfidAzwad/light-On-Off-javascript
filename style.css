@@ -1,0 +1,18 @@
+.main {
+  text-align: center;
+  padding-top: 5%;
+}
+
+.bulboff {
+  width: 265px;
+  height: 400px;
+  background: url("offBulb.png") no-repeat;
+  margin: auto;
+}
+
+.bulbon {
+  width: 265px;
+  height: 400px;
+  background: url("onBulb.png") no-repeat;
+  margin: auto;
+}
